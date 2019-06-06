@@ -2,7 +2,7 @@
 Given two matrices. 
 The task is that we will have to create a program to multiply two matrices in python.
 
-Task:
+#### Task description:
 
 Implement a function in Python3 that accepts two parameters, matrix X and matrix Y and returns the
 result of their multiplication. 
