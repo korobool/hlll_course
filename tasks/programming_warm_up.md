@@ -7,14 +7,14 @@ Task:
 Implement a function in Python3 that accepts two parameters, matrix X and matrix Y and returns the
 result of their multiplication. 
 
-[Intro to matrix multiplication](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro)
-[Multiplying matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/multiplying-a-matrix-by-a-matrix)
-[Multiplying matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/a/multiplying-matrices)
+1. [Intro to matrix multiplication](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro)
+*. [Multiplying matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/multiplying-a-matrix-by-a-matrix)
+*. [Multiplying matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/a/multiplying-matrices)
 
 
 You can use Python itself ONLY, no numpy or other math libs. You can use: 
 1. regular loops, for, while, 
-2. lists, and other standard data structures in Python
+*. lists, and other standard data structures in Python
 
 
 
