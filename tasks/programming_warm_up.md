@@ -24,7 +24,7 @@ Implement a function with following prototype:
 def matrix_dot_matrix(X, Y):
     # Here you should implement an algorithm of multiplication itself using
     # loops and lists.
-    # Don't forget if matricies can be mutiplied or not (check shape of each matrix)
+    # Don't forget to check if matricies can be mutiplied or not (check shape of each matrix)
     return output_matrix
 ```
 
