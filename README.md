@@ -3,7 +3,44 @@
 
 Topics:
 01. [Explore Python3 & Jupyter Features](https://github.com/korobool/hlll_course/blob/master/topics/01_learning_python3.ipynb)
-02. [Intro + Numpy & Pandas brief tour](https://github.com/korobool/hlll_course/blob/master/topics/02_Introduction.ipynb)
-03. [Statistics And Probabilities](https://github.com/korobool/hlll_course/blob/master/topics/03_StatProb.ipynb)
-04. [Regression Problem](https://github.com/korobool/hlll_course/blob/master/topics/04_Regression.ipynb)
-05. [Classification Problem](https://github.com/korobool/hlll_course/blob/master/topics/05_Classification.ipynb)
+  * Python3 features and cheat sheet
+  * Jupyter notebook & [google colab](https://colab.research.google.com/)
+02. [Intro](https://github.com/korobool/hlll_course/blob/master/topics/02_Introduction.ipynb)
+  * statistics vs ML
+  * Supervised vs Unsupervised, Reinforcement Learning
+  * numpy overview
+  * pandas overview  
+03. Manipulating Data
+  * Data Fetching, tweeter example
+  * Data preprocessing
+04. Statistics And Probabilities
+  * destributions
+  * bayessian algorithms 
+  * Probabilities
+  * Probabilistic programming
+05. Regression Problem
+  * Linear Regression
+  * Polynomial Regression
+  * Regression in scikit-learn 
+06. Classification Problem
+  * Logistic Regression IS NOT a regression!
+  * Naive Bayes Algorithm
+  * Support Vector Machines
+07. Unsupervised Learning
+  * Clusterization Problem
+  * Dimensionality reduction
+  * Examples: embeddings; unsupervisedly built language models;
+07. Basic ML routines and terminology
+  * Data Splitting
+  * Evaluation and Metrics 
+  * Overfitting and Regularization
+08. Neural Networks Intro
+  * Losistic Regression  >move> Perceptron
+  * Back Propagation
+  * Types of Neural Networks
+09. Natural Language Porcessing
+10. Time Series And Siglal Processing
+11. Image Processing
+12. Intro to Final Project
+13. Final Project
+
