@@ -17,11 +17,15 @@ Topics:
   * Images & Video
   * Signals
   * Data Augmentation & Imputation (Hadling Missing Fields)
-### 04. Statistics And Probabilities
+### 04. Essential Math
   * destributions
   * bayessian algorithms 
-  * Probabilities
+  * Statistics And Probabilities
   * Probabilistic programming
+  * ML & Optimization Problem
+  * Linear Algebra
+  * Derivatives and Partial Derivatives
+  * Gradient Descent
 ### 05. Regression Problem
   * Linear Regression
   * Polynomial Regression
