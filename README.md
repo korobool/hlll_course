@@ -11,7 +11,7 @@ Topics:
   * numpy overview
   * pandas overview  
 ### 03. Manipulating Data
-  * Data Fetching, tweeter example
+  * Data Fetching, Twitter example
   * Data preprocessing
 ### 04. Statistics And Probabilities
   * destributions
