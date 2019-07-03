@@ -13,6 +13,10 @@ Topics:
 ### 03. Manipulating Data
   * Data Fetching, Twitter example
   * Data preprocessing
+  * Textual Data
+  * Images & Video
+  * Signals
+  * Data Augmentation & Imputation (Hadling Missing Fields)
 ### 04. Statistics And Probabilities
   * destributions
   * bayessian algorithms 
@@ -34,12 +38,15 @@ Topics:
   * Data Splitting
   * Evaluation and Metrics 
   * Overfitting and Regularization
+  * Model Improvement
+  * Grid Search
+  * Fine Tuning
 ### 09. Neural Networks Intro
   * Losistic Regression  >move> Perceptron
   * Back Propagation
   * Types of Neural Networks
-### 10. Natural Language Porcessing
-### 11. Time Series And Siglal Processing
-### 12. Image Processing
+### 10. Neural networks For Natural Language Processing
+### 11. Neural networks For Time Series And Siglal Processing
+### 12. Neural networks For Image Processing
 ### 13. Final Project
 
