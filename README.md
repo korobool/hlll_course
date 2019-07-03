@@ -36,6 +36,7 @@ Topics:
   * Examples: embeddings; unsupervisedly built language models;
 ### 08. Basic ML routines and terminology
   * Data Splitting
+  * Crossvalidation
   * Evaluation and Metrics 
   * Overfitting and Regularization
   * Model Improvement
