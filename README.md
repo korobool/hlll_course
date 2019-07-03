@@ -2,45 +2,44 @@
 #### *For Hillel students
 
 Topics:
-01. [Explore Python3 & Jupyter Features](https://github.com/korobool/hlll_course/blob/master/topics/01_learning_python3.ipynb)
+### 01. [Explore Python3 & Jupyter Features](https://github.com/korobool/hlll_course/blob/master/topics/01_learning_python3.ipynb)
   * Python3 features and cheat sheet
   * Jupyter notebook & [google colab](https://colab.research.google.com/)
-02. [Intro](https://github.com/korobool/hlll_course/blob/master/topics/02_Introduction.ipynb)
+### 02. [Intro](https://github.com/korobool/hlll_course/blob/master/topics/02_Introduction.ipynb)
   * statistics vs ML
   * Supervised vs Unsupervised, Reinforcement Learning
   * numpy overview
   * pandas overview  
-03. Manipulating Data
+### 03. Manipulating Data
   * Data Fetching, tweeter example
   * Data preprocessing
-04. Statistics And Probabilities
+### 04. Statistics And Probabilities
   * destributions
   * bayessian algorithms 
   * Probabilities
   * Probabilistic programming
-05. Regression Problem
+### 05. Regression Problem
   * Linear Regression
   * Polynomial Regression
   * Regression in scikit-learn 
-06. Classification Problem
+### 06. Classification Problem
   * Logistic Regression IS NOT a regression!
   * Naive Bayes Algorithm
   * Support Vector Machines
-07. Unsupervised Learning
+### 07. Unsupervised Learning
   * Clusterization Problem
   * Dimensionality reduction
   * Examples: embeddings; unsupervisedly built language models;
-07. Basic ML routines and terminology
+### 08. Basic ML routines and terminology
   * Data Splitting
   * Evaluation and Metrics 
   * Overfitting and Regularization
-08. Neural Networks Intro
+### 09. Neural Networks Intro
   * Losistic Regression  >move> Perceptron
   * Back Propagation
   * Types of Neural Networks
-09. Natural Language Porcessing
-10. Time Series And Siglal Processing
-11. Image Processing
-12. Intro to Final Project
-13. Final Project
+### 10. Natural Language Porcessing
+### 11. Time Series And Siglal Processing
+### 12. Image Processing
+### 13. Final Project
 
