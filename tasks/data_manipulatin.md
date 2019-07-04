@@ -81,7 +81,12 @@ For learning about practical aspects of this, you will go through the process of
 
 To be able to do this you should:
 * Register a developer access for twitter
-* Register an application for twitter (in twitter application developer dashboard)
+
+You have to apply, when you're asked for your goals, answer in free form that you're learning and doing research with natural language data and machine learning, this should be enough for getting an approve. Do use your own sentences, otherwise they can decline.
+* Register an application for twitter (in twitter application developer account)
+
+Read detailed info at [Twitter Developer Webpage](https://developer.twitter.com/)
+
 * Get your personal keys (4 values) to get an access 
 
 ```
