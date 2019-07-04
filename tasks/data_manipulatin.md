@@ -83,6 +83,13 @@ To be able to do this you should:
 * Register a developer access for twitter
 * Register an application for twitter (in twitter application developer dashboard)
 * Get your personal keys (4 values) to get an access 
+
+```
+access_token
+access_token_secret
+consumer_key
+consumer_secret
+```
 * Write a client that connects to Twitter API and fetches data
 
 Learn the examle and make it work
