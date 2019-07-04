@@ -5,6 +5,7 @@ Amoung many potential options on how to get data for ML we can put to a special 
 ### Data Scrapping
 * Read about [scrapy](https://scrapy.org/) 
 * Read about [headless browsers](https://github.com/dhamaniasad/HeadlessBrowsers) in general and [selenium](https://www.seleniumhq.org/) in particular
+
 Try to understand and run the code (you will also need to download a [webdriver](https://www.seleniumhq.org/projects/webdriver/) - learn more about this please):
 ```python
 import sys
@@ -76,4 +77,5 @@ if __name__ == "__main__":
 
 
 ### Fetch Data From Public Resources Using API
+For learning about practical aspects of this, you will go through the process of consuming Twitter API
 
