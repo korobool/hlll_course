@@ -77,5 +77,11 @@ if __name__ == "__main__":
 
 
 ### Fetch Data From Public Resources Using API
-For learning about practical aspects of this, you will go through the process of consuming Twitter API
+For learning about practical aspects of this, you will go through the process of consuming [Twitter API](https://developer.twitter.com/)
+
+To be able to do this you should:
+* Register a developer access for twitter
+* Register an application for twitter (in twitter application developer dashboard)
+* Get your personal keys (4 values) to get an access 
+* Write a client that connects to Twitter API and fetches data
 
