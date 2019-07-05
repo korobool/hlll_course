@@ -8,8 +8,8 @@ Topics:
 ### 02. [Intro](https://github.com/korobool/hlll_course/blob/master/topics/02_Introduction.ipynb)
   * statistics vs ML
   * Supervised vs Unsupervised, Reinforcement Learning
-  * numpy overview
-  * pandas overview  
+  * [numpy](https://www.numpy.org/) overview
+  * [pandas](https://pandas.pydata.org/) overview  
 ### 03. Essential Math
   * destributions
   * bayessian algorithms 
