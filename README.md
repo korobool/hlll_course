@@ -12,8 +12,7 @@ Topics:
   * [pandas](https://pandas.pydata.org/) overview  
 ### 03. Textual Data Manipulating 
   * Data Fetching, [Headless Browsers Twitter example](https://github.com/korobool/hlll_course/blob/master/tasks/data_manipulatin.md) 
-  * Data preprocessing
-  * Textual Data
+  * Textual Data Preprocessing
     * String slicing
     * regex
     * stopwords
