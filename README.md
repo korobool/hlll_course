@@ -11,7 +11,7 @@ Topics:
   * [numpy](https://www.numpy.org/) overview
   * [pandas](https://pandas.pydata.org/) overview  
 ### 03. Textual Data Manipulating 
-  * Data Fetching, Twitter example
+  * Data Fetching, [Headless Browsers Twitter example](https://github.com/korobool/hlll_course/blob/master/tasks/data_manipulatin.md) 
   * Data preprocessing
   * Textual Data
     * String slicing
