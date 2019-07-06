@@ -10,7 +10,18 @@ Topics:
   * Supervised vs Unsupervised, Reinforcement Learning
   * [numpy](https://www.numpy.org/) overview
   * [pandas](https://pandas.pydata.org/) overview  
-### 03. Essential Math
+### 03. Manipulating Data
+  * Data Fetching, Twitter example
+  * Data preprocessing
+  * Textual Data
+   * String slicing
+   * regex
+   * stopwords
+   * unix utils
+  * Images & Video
+  * Signals
+  * Data Augmentation & Imputation (Hadling Missing Fields)
+### 04. Essential Math
   * destributions
   * bayessian algorithms 
   * Statistics And Probabilities
@@ -19,13 +30,6 @@ Topics:
   * Linear Algebra
   * Derivatives and Partial Derivatives
   * Gradient Descent
-### 04. Manipulating Data
-  * Data Fetching, Twitter example
-  * Data preprocessing
-  * Textual Data
-  * Images & Video
-  * Signals
-  * Data Augmentation & Imputation (Hadling Missing Fields)
 ### 05. Regression Problem
   * Linear Regression
   * Polynomial Regression
