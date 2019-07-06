@@ -10,7 +10,7 @@ Topics:
   * Supervised vs Unsupervised, Reinforcement Learning
   * [numpy](https://www.numpy.org/) overview
   * [pandas](https://pandas.pydata.org/) overview  
-### 03. Manipulating Data
+### 03. Textual Data Manipulating 
   * Data Fetching, Twitter example
   * Data preprocessing
   * Textual Data
@@ -18,9 +18,11 @@ Topics:
     * regex
     * stopwords
     * unix utils
-  * Images & Video
-  * Signals
-  * Data Augmentation & Imputation (Hadling Missing Fields)
+  * First example for classification
+    * Problem of classification
+    * Probabilistic Methods And Frequency Based Classification
+    * Naive Bayes From Scratch And Scikit-learn
+    * Ovefitting And Regularization Example
 ### 04. Essential Math
   * destributions
   * bayessian algorithms 
