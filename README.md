@@ -14,10 +14,10 @@ Topics:
   * Data Fetching, Twitter example
   * Data preprocessing
   * Textual Data
-   * String slicing
-   * regex
-   * stopwords
-   * unix utils
+    * String slicing
+    * regex
+    * stopwords
+    * unix utils
   * Images & Video
   * Signals
   * Data Augmentation & Imputation (Hadling Missing Fields)
