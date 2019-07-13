@@ -22,7 +22,15 @@ Topics:
     * Probabilistic Methods And Frequency Based Classification
     * Naive Bayes From Scratch And Scikit-learn
     * Ovefitting And Regularization Example
-### 04. Essential Math
+### 04. Regression Problem
+  * Linear Regression
+  * Polynomial Regression
+  * Regression in scikit-learn 
+### 05. Classification Problem
+  * Logistic Regression IS NOT a regression!
+  * Naive Bayes Algorithm
+  * Support Vector Machines
+### 06. Essential Math
   * destributions
   * bayessian algorithms 
   * Statistics And Probabilities
@@ -31,14 +39,6 @@ Topics:
   * Linear Algebra
   * Derivatives and Partial Derivatives
   * Gradient Descent
-### 05. Regression Problem
-  * Linear Regression
-  * Polynomial Regression
-  * Regression in scikit-learn 
-### 06. Classification Problem
-  * Logistic Regression IS NOT a regression!
-  * Naive Bayes Algorithm
-  * Support Vector Machines
 ### 07. Unsupervised Learning
   * Clusterization Problem
   * Dimensionality reduction
