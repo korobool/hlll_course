@@ -12,7 +12,7 @@ result of their multiplication.
 3. [Multiplying matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/a/multiplying-matrices) - Article
 4. [Materials in other languages](https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86)
 
-
+### Python stdlib
 You can use Python itself ONLY, no numpy or other math libs. You can use: 
 1. regular loops, for, while, 
 2. lists, and other standard data structures in Python
@@ -51,4 +51,11 @@ print(matrix_dot_matrix(X, Y))
      [90, 107, 111, 21]]
 ```
 
+### Python Numpy Based Solutions
+
+Do the same thing with NumPy
+
+### Evaluation
+
+compare speed usin big matrix (find big enouth one to make computation run for several secconds) submit the result.
 
