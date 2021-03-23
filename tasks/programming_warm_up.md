@@ -51,7 +51,8 @@ print(matrix_dot_matrix(X, Y))
      [90, 107, 111, 21]]
 ```
 
-### Python Numpy Based Solutions
+### TODO: Next Step
+Python Numpy Based Solutions
 
 Do the same thing with NumPy
 
