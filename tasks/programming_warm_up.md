@@ -29,11 +29,6 @@ def matrix_dot_matrix(X, Y):
     return output_matrix
 ```
 
-put this function into file ```matrix_mult_from_scratch.py```
-
-Upload the solution
-
-
 Examples:
 ```python
 X = [[1, 7, 3],
@@ -52,12 +47,9 @@ print(matrix_dot_matrix(X, Y))
      [90, 107, 111, 21]]
 ```
 
-### TODO: Next Step
-Python Numpy Based Solutions
+### TODO: Next Step - *Task
+Python and Numpy Based Solutions Comparson:
 
-Do the same thing with NumPy
-
-### Evaluation
-
-compare speed usin big matrix (find big enouth one to make computation run for several secconds) submit the result.
+* Do the same thing with NumPy
+* Compare speed using big matrix (find big enough one to make computation run for several secconds).
 
