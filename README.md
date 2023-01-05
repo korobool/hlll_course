@@ -43,14 +43,13 @@ Topics:
   * Clusterization Problem
   * Dimensionality reduction
   * Examples: embeddings; unsupervisedly built language models;
-### 08. Basic ML routines and terminology
-  * Data Splitting
-  * Crossvalidation
-  * Evaluation and Metrics 
-  * Overfitting and Regularization
-  * Model Improvement
-  * Grid Search
-  * Fine Tuning
+### 08. Pytorch Intro
+  * Tensors and tensor operatıons
+  * CPU or GPU?
+  * Torch Datasets and DataLoader 
+  * Linear regression with Tensors and Gradient calculation
+  * Train Neural Network on Fashion MNIST
+  * Saving and Loading
 ### 09. Neural Networks Intro
   * Losistic Regression  >move> Perceptron
   * Back Propagation
@@ -58,5 +57,5 @@ Topics:
 ### 10. Neural networks For Natural Language Processing
 ### 11. Neural networks For Time Series And Siglal Processing
 ### 12. Neural networks For Image Processing
-### 13. Final Project
+### 15. Zero shot learning
 
