@@ -43,7 +43,7 @@ Topics:
   * Clusterization Problem
   * Dimensionality reduction
   * Examples: embeddings; unsupervisedly built language models;
-### 08. Pytorch Intro
+### 08. [Pytorch Intro](https://github.com/korobool/hlll_course/blob/master/topics/08_introduction_pytorch.ipynb)
   * Tensors and tensor operatıons
   * CPU or GPU?
   * Torch Datasets and DataLoader 
