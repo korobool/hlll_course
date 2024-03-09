@@ -27,7 +27,7 @@ Topics:
   * [Polynomial Regression](https://github.com/korobool/hlll_course/blob/master/topics/05_poly_regression_updated.ipynb)
   * Regression in scikit-learn 
 ### 05. Classification Problem
-  * Logistic Regression IS NOT a regression!
+  * [Logistic Regression](https://github.com/korobool/hlll_course/blob/master/topics/04_LogisticRegression.ipynb) IS NOT a regression!
   * Naive Bayes Algorithm
   * Support Vector Machines
 ### 06. Essential Math
