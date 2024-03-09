@@ -8,7 +8,7 @@ Topics:
 ### 02. [Intro](https://github.com/korobool/hlll_course/blob/master/topics/02_Introduction.ipynb)
   * [statistics vs ML](https://github.com/korobool/hlll_course/blob/master/topics/02_statistics_vs_ml.md)
   * [Supervised vs Unsupervised, Reinforcement Learning](https://github.com/korobool/hlll_course/blob/master/topics/02_ml.md)
-  * [numpy](https://www.numpy.org/) overview
+  * [numpy](https://www.numpy.org/) [overview](https://github.com/korobool/hlll_course/blob/master/topics/02_numpy.md)
   * [pandas](https://pandas.pydata.org/) [overview](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb)  
 ### 03. Textual Data Manipulating 
   * Data Fetching, [Headless Browsers Twitter example](https://github.com/korobool/hlll_course/blob/master/tasks/data_manipulatin.md) 
