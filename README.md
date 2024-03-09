@@ -40,8 +40,8 @@ Topics:
   * Derivatives and Partial Derivatives
   * Gradient Descent
 ### 07. Unsupervised Learning
-  * Clusterization Problem
-  * Dimensionality reduction
+  * [Clusterization Problem](https://github.com/korobool/hlll_course/blob/master/topics/07_Clusterization_Problem_Detailed.ipynb)
+  * [Dimensionality reduction](https://github.com/korobool/hlll_course/blob/master/topics/Dimensionality_Reduction_Detailed.ipynb)
   * Examples: embeddings; unsupervisedly built language models;
 ### 08. [Pytorch Intro](https://github.com/korobool/hlll_course/blob/master/topics/08_introduction_pytorch.ipynb)
   * Tensors and tensor operatıons
