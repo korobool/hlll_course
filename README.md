@@ -6,7 +6,7 @@ Topics:
   * Python3 features and cheat sheet
   * Jupyter notebook & [google colab](https://colab.research.google.com/)
 ### 02. [Intro](https://github.com/korobool/hlll_course/blob/master/topics/02_Introduction.ipynb)
-  * statistics vs ML
+  * [statistics vs ML](https://github.com/korobool/hlll_course/blob/master/topics/02_statistics_vs_ml.md)
   * Supervised vs Unsupervised, Reinforcement Learning
   * [numpy](https://www.numpy.org/) overview
   * [pandas](https://pandas.pydata.org/) overview  
