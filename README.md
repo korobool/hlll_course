@@ -24,7 +24,7 @@ Topics:
     * Ovefitting And Regularization Example
 ### 04. Regression Problem
   * [Linear Regression](https://github.com/korobool/hlll_course/blob/master/topics/04_linear_regression_enhanced.ipynb)
-  * Polynomial Regression
+  * Polynomial Regression [see](https://github.com/korobool/hlll_course/blob/master/topics/05_poly_regression_updated.ipynb)
   * Regression in scikit-learn 
 ### 05. Classification Problem
   * Logistic Regression IS NOT a regression!
