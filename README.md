@@ -23,7 +23,7 @@ Topics:
     * Naive Bayes From Scratch And Scikit-learn
     * Ovefitting And Regularization Example
 ### 04. Regression Problem
-  * Linear Regression
+  * [Linear Regression](https://github.com/korobool/hlll_course/blob/master/topics/04_linear_regression_enhanced.ipynb)
   * Polynomial Regression
   * Regression in scikit-learn 
 ### 05. Classification Problem
